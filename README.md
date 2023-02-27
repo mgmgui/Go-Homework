@@ -1,7 +1,7 @@
 # Go-Homework
 HomeWork in Go language
 
-The repository copy from avelino/awesome-go
+The repository copy from  inancgumus/learngo
 
 # week1 
 hello world
