@@ -1,6 +1,8 @@
 # Go-Homework
 HomeWork in Go language
 
+The repository copy from avelino/awesome-go
+
 # week1 
 hello world
 
