@@ -2,6 +2,7 @@
 HomeWork in Go language
 
 The repository copy from  inancgumus/learngo
+https://github.com/inancgumus/learngo
 
 # week1 
 hello world
