@@ -27,3 +27,6 @@ going
 # week6
 
 3.23
+
+# week7 
+4.08
