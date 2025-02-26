@@ -4,6 +4,8 @@ HomeWork in Go language
 The repository copy from  inancgumus/learngo
 https://github.com/inancgumus/learngo
 
+just do this
+
 # week1 
 hello world
 
